@@ -1,4 +1,4 @@
-# Investigate-a-Dataset---TMDB-Movie-Data
+# Udacity Project (Investigate-a-Dataset - TMDB-Movie-Data)
 
 ## About the Dataset
 This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue. The data was provided from [this link](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/July/5b57919a_data-set-options/data-set-options.pdf) provided by Udacity.
