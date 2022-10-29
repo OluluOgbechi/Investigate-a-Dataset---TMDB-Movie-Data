@@ -9,3 +9,5 @@ What kinds of properties are associated with movies that have high revenues?
 
 ## Data Wrangling
 The data was downloaded directly to local machine using this [link](https://www.google.com/url?q=https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59dd1c4c_tmdb-movies/tmdb-movies.csv&sa=D&ust=1532469042115000) and was then read into jupyter notebook using pandas. The contents of the data were also assessed.
+
+### Additional Wrangling
